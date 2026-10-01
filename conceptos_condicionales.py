@@ -32,5 +32,5 @@ if (edad >= 18 and edad <65) or (edad>=65 and edad <70):
       print("Elegible para votar")
       
 else:
-      print ("No podes votarr")"""
+      print ("No podes votar")"""
             
